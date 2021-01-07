@@ -1,0 +1,9 @@
+{
+    "tank": ["PLD", "WAR", "DRK", "GNB"],
+    "healer": ["WHM", "SCH", "AST"],
+    "dps": {
+        "melee": ["DRG", "NIN", "MNK", "SAM"],
+        "ranged": ["BRD", "MCH", "DNC"],
+        "caster": ["BLM", "SMN", "RDM"]
+    }
+}
